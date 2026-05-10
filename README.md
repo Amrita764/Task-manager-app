@@ -29,6 +29,7 @@ JWT Authentication
 bcrypt.js
 
 ##Project Structure
+
 Task-Manager/
 │
 ├── frontend/
@@ -48,9 +49,11 @@ Task-Manager/
 └── README.md
 ##Installation & Setup
 Clone Repository
-git clone <your-github-repository-link>
+git clone 
 Navigate to Project
+
 cd Task-Manager
+
 Backend Setup
 cd backend
 npm install
