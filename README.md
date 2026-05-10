@@ -47,6 +47,7 @@ Task-Manager/
 │   ├── package.json
 │
 └── README.md
+
 ##Installation & Setup
 Clone Repository
 git clone 
@@ -55,8 +56,11 @@ Navigate to Project
 cd Task-Manager
 
 Backend Setup
+
 cd backend
+
 npm install
+
 npm start
 
 ##Backend runs on:
@@ -67,7 +71,9 @@ Frontend Setup
 Open another terminal:
 
 cd frontend
+
 npm install
+
 npm run dev
 
 Frontend runs on:
@@ -78,6 +84,7 @@ Environment Variables
 Create a .env file inside backend folder.
 
 PORT=5000
+
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 API Endpoints
@@ -89,9 +96,9 @@ GET /api/tasks
 POST /api/tasks
 PUT /api/tasks/:id
 DELETE /api/tasks/:id
-Screenshots
+Screenshots:
 
-Add your project screenshots here.
+
 
 Future Enhancements
 Dark Mode
