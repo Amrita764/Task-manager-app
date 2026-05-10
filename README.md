@@ -68,6 +68,7 @@ npm start
 ##Backend runs on:
 
 http://localhost:5000
+
 Frontend Setup
 
 Open another terminal:
