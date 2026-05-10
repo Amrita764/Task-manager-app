@@ -51,6 +51,7 @@ Task-Manager/
 ##Installation & Setup
 Clone Repository
 git clone https://github.com/Amrita764/Task-manager-app.git
+
 Navigate to Project
 
 cd Task-Manager
