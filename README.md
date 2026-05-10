@@ -1,4 +1,4 @@
-Task Manager Application
+##Task Manager Application:
 
 A full-stack Task Manager web application built to help users manage daily tasks efficiently with features like task creation, updating, deletion, authentication, and task tracking.
 
