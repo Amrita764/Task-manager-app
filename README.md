@@ -119,13 +119,4 @@ License
 
 This project is developed for educational and learning purposes.
 
-I’ve created a complete professional README for your full-stack Task Manager project, including:
-
-Features
-Tech stack
-Installation steps
-Project structure
-API endpoints
-Environment variables
-Future enhancements
 
