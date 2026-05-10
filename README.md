@@ -49,6 +49,7 @@ Task-Manager/
 └── README.md
 
 ##Installation & Setup
+
 Clone Repository
 git clone https://github.com/Amrita764/Task-manager-app.git
 
@@ -82,7 +83,7 @@ Frontend runs on:
 http://localhost:5173
 Environment Variables
 
-Create a .env file inside backend folder.
+
 
 PORT=5000
 
